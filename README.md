@@ -42,6 +42,7 @@ P.S. These are experimental results, not universal claims.
 - **Project website:** [vectorinstitute.github.io/sustainable-rai-evaluation](https://vectorinstitute.github.io/sustainable-rai-evaluation/) ([source in `doc/`](doc/))
 - **Code:** [VectorInstitute/sustainable-rai-evaluation](https://github.com/VectorInstitute/sustainable-rai-evaluation)
 - **Paper:** [arXiv:2608.31108](https://arxiv.org/abs/2608.31108)
+- **Workshop:** Accepted at [TAE (Trust-AI-Eval): Can We Trust AI Evaluation?](https://tai-eval.github.io/), NeurIPS 2026 (Sydney, December 12). [OpenReview](https://openreview.net/forum?id=gCHBzuMd2B)
 - **BBQ (original benchmark):** [NYU BBQ repository](https://github.com/nyu-mll/BBQ)
 - **BBQ-V (original benchmark):** [UCF-CRCV BBQ-Vision repository](https://github.com/UCF-CRCV/BBQ-Vision)
 
@@ -121,14 +122,16 @@ innovation programme under the AIXPERT project (Grant Agreement No. 101214389).
 ## Citation
 
 ```bibtex
-@misc{kady2026stresstestingefficientresponsibleaievaluation,
+@inproceedings{kady2026stresstestingefficientresponsibleaievaluation,
   title = {Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions},
-  author = {Ahmed El Kady and Aravind Narayanan and Rehana Noorani and Yani Ioannou and Shaina Raza},
+  author = {Ahmed El Kady and Aravind Narayanan and Rehana Riaz and Yani Ioannou and Shaina Raza},
+  booktitle = {TAE (Trust-AI-Eval): Can We Trust AI Evaluation? Workshop at NeurIPS 2026},
   year = {2026},
+  address = {Sydney, Australia},
+  url = {https://openreview.net/forum?id=gCHBzuMd2B},
   eprint = {2608.31108},
   archivePrefix = {arXiv},
   primaryClass = {cs.LG},
-  url = {https://arxiv.org/abs/2608.31108},
 }
 ```
 
