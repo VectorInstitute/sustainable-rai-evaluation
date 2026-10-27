@@ -60,6 +60,27 @@ a:hover {
   margin: 0 auto;
 }
 
+.project-venue {
+  max-width: 760px;
+  margin: 0 auto 1.35rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.project-venue a {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.project-venue a:hover {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
 .project-title {
   max-width: 1050px;
   margin: 0 auto;
@@ -533,6 +554,14 @@ a.project-button:hover {
   line-height: 1.65;
 }
 
+.citation a {
+  color: var(--link);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
 .bibtex-placeholder {
   margin: 0.9rem 0 0;
   padding: 0.85rem 1rem;
@@ -616,6 +645,11 @@ a.project-button:hover {
 
   .project-hero {
     padding: 3.6rem 1.25rem 1.85rem;
+  }
+
+  .project-venue {
+    margin-bottom: 1.05rem;
+    font-size: 0.9rem;
   }
 
   .project-title {
