@@ -3,6 +3,7 @@
 **Authors:** [Ahmed El Kady](https://github.com/goushaa)<sup>1</sup>,
 [Aravind Narayanan](https://scholar.google.com/citations?hl=en&user=KCVuy2UAAAAJ)<sup>1</sup>,
 [Rehana Riaz](https://scholar.google.com/citations?user=_qrSPWYAAAAJ&hl=en&oi=ao)<sup>2</sup>,
+[Amandeep Singh](https://orcid.org/0009-0001-6618-9956)<sup>1</sup>,
 [Yani Ioannou](https://scholar.google.com/citations?user=Qy9yv44AAAAJ&hl=en)<sup>3</sup>, and
 [Shaina Raza](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en)<sup>1,\*</sup>
 
@@ -124,7 +125,7 @@ innovation programme under the AIXPERT project (Grant Agreement No. 101214389).
 ```bibtex
 @inproceedings{kady2026stresstestingefficientresponsibleaievaluation,
   title = {Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions},
-  author = {Ahmed El Kady and Aravind Narayanan and Rehana Riaz and Yani Ioannou and Shaina Raza},
+  author = {Ahmed El Kady and Aravind Narayanan and Rehana Riaz and Amandeep Singh and Yani Ioannou and Shaina Raza},
   booktitle = {TAE (Trust-AI-Eval): Can We Trust AI Evaluation? Workshop at NeurIPS 2026},
   year = {2026},
   address = {Sydney, Australia},
